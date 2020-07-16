@@ -1,0 +1,27 @@
+body
+{
+     font-family: Tahoma, Geneva, sans-serif; 
+   align-items: center;
+    background-size: cover;
+        
+}
+a 
+{
+ color: yellow;
+    font-family: Tahoma, Geneva, sans-serif; 
+    margin-left: 30px;
+}
+.cong
+{
+    background: rgba(44,62,80,0.7);
+    padding: 64px;
+    height: 511px;
+    margin-left: 180px;
+    margin: 0 auto;
+    width: 290px;
+}
+h2
+{
+    margin-top: 188px;
+    margin-left: 20px;
+}
